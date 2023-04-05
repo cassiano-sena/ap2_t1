@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680735504 source:c:\users\7649487\downloads\trabalho_algoritmos-20230405t212553z-001\trabalho_algoritmos\trabalho_algoritmos\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"function.cpp"
+
+1680736861 c:\users\7649487\downloads\trabalho_algoritmos-20230405t212553z-001\trabalho_algoritmos\trabalho_algoritmos\function.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
